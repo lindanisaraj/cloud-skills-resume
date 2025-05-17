@@ -1,6 +1,6 @@
 # Cloud Skills Resume
 
-This project is based on [Resume](https://startbootstrap.com/theme/resume/), a resume and CV theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This theme features a fixed sidebar with content sections to build a simple, yet elegant resume.
+This project is based on [Resume](https://startbootstrap.com/theme/resume/), a resume and CV theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This theme features a fixed sidebar with content sections to build a simple, yet elegant resume. Learning something new.
 
 ## Download and Installation
 - [Fork the repository](https://github.com/757colorcoded/cloud-skills-resume/fork)
